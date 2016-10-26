@@ -4,7 +4,7 @@
 
 
 ###############################################################################################
-##					Copyright 2013 IITMK
+##					
 ##
 ##	This file is part of എഴുത്താണി  : A Malayalam Phonetic Text Editor for GNU/Linux Systems
 ##
