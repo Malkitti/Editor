@@ -62,6 +62,7 @@ in Terminal'
 
 
 Limitations
+
 • Typing Malyalam and English together is not possible in this version of
 Ezhuthani.
 
