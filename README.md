@@ -5,6 +5,8 @@ Ezhuthani is a simple Text Editor to enable Phonetic typing in the Malayalam
 language for users of GNU/Linux systems. It is written in Python and uses the
 Wxpython toolkit for the GUI. The encoding scheme used in the application is
 Unicode 6.2.
+
+
 It is very easy and totally intuitive to use Ezhuthani. You keep typing words using
 your normal keyboard, and it will automatically be transliterated to Malayalam. No
 need to remember complicated Malayalam Keyboard layouts.
@@ -13,6 +15,8 @@ The transliteration happens when the 'Space bar' is pressed. In order to know wh
 roman letter combination will produce the actual malayalam character press F1 or the
 Help button in the toolbar to get the translitearation scheme.
 How to Install Ezhuthani, Phonetic Text Editor for Malayalam
+
+
 Install the dependencies
 • Python 2.7.x (as wxPython doesn't have support for Python 3.x.x
 versions it's recommended to use 2.x.x version preferebly 2.7.x)
@@ -25,6 +29,8 @@ below.
 http://python.org/
 http://wxpython.org/
 http://malayalam.kerala.gov.in/index.php/Fonts
+
+
 It is advised to install the dependenices before trying to run th installer script as it
 doesn't check for dependencies, and the installer script will report errors.
 After installing the dependencies, follow the instructions,
@@ -41,6 +47,9 @@ terminal. Instead you can copy 'ezhuthani_launcher.sh' into the home folder
 and create a launcher in the desktop and select 'ezhuthani_launcher.sh' as the
 command. Make sure you've selelcter the type of the launcher as 'Application
 in Terminal'
+
+
+
 Limitations
 • Typing Malyalam and English together is not possible in this version of
 Ezhuthani.
@@ -82,6 +91,8 @@ Consonants
 ള = L|La
 ഴ = z|za
 റ = R|Ra
+
+
 Chillu
 ൽ = l~
 ൾ = L~
