@@ -3,7 +3,7 @@
 ## beditor.py
 
 ###############################################################################################
-##					Copyright 2013 IIITMK 
+##					GNU
 ##
 ##      This file is part of എഴുത്താണി : A Malayalam Phonetic Text Editor for GNU/Linux Systems
 ##
